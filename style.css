@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "MyPixelFont";
+  src: url("./m5x7.ttf") format("truetype");
+}
+
+body {
+  font-family: "MyPixelFont";
+  font-size: large;
+  padding: 0 15%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: rgba(7, 129, 160, 0.726);
+  background-color: rgba(58, 129, 196, 0.575);
+}
+
+.information-design {
+    
+}
